@@ -40,4 +40,4 @@
 
 ---
 
-This README provides a comprehensive overview of the system aimed at identifying high-risk areas for storm and earthquake insurance using public disaster safety data and agricultural data. Through this project, we aim to enhance the safety and preparedness of the population against natural disasters.
+이 README는 공공 재난 안전 데이터와 농업 데이터를 활용하여 풍수해 및 지진 보험의 고위험 지역을 파악하기 위한 시스템에 대한 포괄적인 개요를 제공합니다. 이 프로젝트를 통해 자연재해에 대한 국민의 안전과 대비를 강화하는 것이 목표입니다.
