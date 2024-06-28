@@ -34,14 +34,14 @@ st.title("재해위험지구 지도시각화 sample")
 
 address = st.text_input("주소지를 입력해주세요:")
 
-# REST API key 프로젝트 상 일단 해당키로 보이는데 곧 수정할겁니다.
+
 rest_api_key = 'bf0070cbed9ecd623aeead721c91397b'
 
-# csv 경로
-csv_file_path = './data/crisis_address(utf-8).csv'  # Replace with your actual CSV file path
+
+csv_file_path = './data/crisis_address(utf-8).csv'
 df = pd.read_csv(csv_file_path)
 
-# 재해위험지구유형에 따른 색상 설정
+
 color_map = {
     1: 'blue',
     2: 'purple',
