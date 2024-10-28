@@ -4,6 +4,18 @@
 자연재해에 미리 대비하는 **보험 가입 유도 시스템**!<br>
 이 프로젝트는 **재난안전데이터**와 **농식품 공공데이터**를 활용해 풍수해 🌧️와 지진 🌍 등 재해 발생 가능성이 높은 지역을 선정하여, 보험사, 정부, 시민 모두가 미리 대비할 수 있도록 돕습니다. 
 
+## 🧑‍🦲 팀원(가나다순)
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/RosieOh"><img src="https://github.com/SP0F0/.github/assets/62829894/89996fac-c626-44e8-ba10-3dcc17252079" width="100px;" alt=""/><br /><sub><b>오태훈</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/sendjin5"><img src="https://github.com/SP0F0/.github/assets/62829894/fc0c73b5-3bdc-4edf-8c7f-b7b8eff9bf67" width="100px;" alt=""/><br /><sub><b>이승렬</b></sub></a><br /></td>
+             <td align="center"><a href="https://github.com/sendjin5"><img src="https://github.com/SP0F0/.github/assets/62829894/fc0c73b5-3bdc-4edf-8c7f-b7b8eff9bf67" width="100px;" alt=""/><br /><sub><b>김민석</b></sub></a><br /></td>
+    </tr>
+  </tbody>
+</table>
+
 ## 🎯 목표
 ### 시스템 구성
 1. **📥 데이터 수집**
